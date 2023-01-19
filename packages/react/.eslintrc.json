@@ -1,0 +1,3 @@
+{
+  "extends": "@wakanda-ignite-ui/eslint-config"
+}
