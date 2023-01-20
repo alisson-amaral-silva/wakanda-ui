@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "start-storybook -p 6006",
     "build": "build-storybook"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@storybook/addon-actions": "^6.5.15",
@@ -25,6 +24,9 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@wakanda-ignite-ui/react": "*",
+    "@wakanda-ignite-ui/tokens": "*",
+    "@wakanda-ignite-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
