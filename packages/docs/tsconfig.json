@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+      "jsx": "react"
+  },
+  "extends": "@wakanda-ignite-ui/ts-config/base.json",
+  "include": ["src"]
+}
