@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/alisson-amaral-silva.png',
     alt: 'Alisson Amaral',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
