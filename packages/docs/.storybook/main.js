@@ -18,7 +18,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/wakanda-ui-ignite/'
+      config.base = '/wakanda-ui/'
     }
 
     return config
