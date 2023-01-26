@@ -1,0 +1,2 @@
+import{A as a}from"./index.c0643098.js";import"./index.4cf93ccc.js";import"./iframe.49b9f0f4.js";import"./index.3a7e5951.js";import"./jsx-runtime.aabe8659.js";const l={title:"Data display/Avatar",component:a,args:{src:"https://github.com/alisson-amaral-silva.png",alt:"Alisson Amaral"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories.9a359a85.js.map
